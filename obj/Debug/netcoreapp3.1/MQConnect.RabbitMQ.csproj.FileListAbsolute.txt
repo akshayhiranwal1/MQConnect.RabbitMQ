@@ -1,0 +1,15 @@
+/Users/akshayhiranwal/Akshay/testInChap/RabbitMQ/CustomRabbit/MQConnect.RabbitMQ/MQConnect.RabbitMQ/bin/Debug/netcoreapp3.1/MQConnect.RabbitMQ.deps.json
+/Users/akshayhiranwal/Akshay/testInChap/RabbitMQ/CustomRabbit/MQConnect.RabbitMQ/MQConnect.RabbitMQ/bin/Debug/netcoreapp3.1/MQConnect.RabbitMQ.runtimeconfig.json
+/Users/akshayhiranwal/Akshay/testInChap/RabbitMQ/CustomRabbit/MQConnect.RabbitMQ/MQConnect.RabbitMQ/bin/Debug/netcoreapp3.1/MQConnect.RabbitMQ.runtimeconfig.dev.json
+/Users/akshayhiranwal/Akshay/testInChap/RabbitMQ/CustomRabbit/MQConnect.RabbitMQ/MQConnect.RabbitMQ/bin/Debug/netcoreapp3.1/MQConnect.RabbitMQ.dll
+/Users/akshayhiranwal/Akshay/testInChap/RabbitMQ/CustomRabbit/MQConnect.RabbitMQ/MQConnect.RabbitMQ/bin/Debug/netcoreapp3.1/MQConnect.RabbitMQ.pdb
+/Users/akshayhiranwal/Akshay/testInChap/RabbitMQ/CustomRabbit/MQConnect.RabbitMQ/MQConnect.RabbitMQ/bin/Debug/netcoreapp3.1/RabbitMQ.Client.dll
+/Users/akshayhiranwal/Akshay/testInChap/RabbitMQ/CustomRabbit/MQConnect.RabbitMQ/MQConnect.RabbitMQ/bin/Debug/netcoreapp3.1/System.Threading.Channels.dll
+/Users/akshayhiranwal/Akshay/testInChap/RabbitMQ/CustomRabbit/MQConnect.RabbitMQ/MQConnect.RabbitMQ/obj/Debug/netcoreapp3.1/MQConnect.RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akshayhiranwal/Akshay/testInChap/RabbitMQ/CustomRabbit/MQConnect.RabbitMQ/MQConnect.RabbitMQ/obj/Debug/netcoreapp3.1/MQConnect.RabbitMQ.AssemblyInfoInputs.cache
+/Users/akshayhiranwal/Akshay/testInChap/RabbitMQ/CustomRabbit/MQConnect.RabbitMQ/MQConnect.RabbitMQ/obj/Debug/netcoreapp3.1/MQConnect.RabbitMQ.AssemblyInfo.cs
+/Users/akshayhiranwal/Akshay/testInChap/RabbitMQ/CustomRabbit/MQConnect.RabbitMQ/MQConnect.RabbitMQ/obj/Debug/netcoreapp3.1/MQConnect.RabbitMQ.csproj.CoreCompileInputs.cache
+/Users/akshayhiranwal/Akshay/testInChap/RabbitMQ/CustomRabbit/MQConnect.RabbitMQ/MQConnect.RabbitMQ/obj/Debug/netcoreapp3.1/MQConnect.RabbitMQ.csproj.CopyComplete
+/Users/akshayhiranwal/Akshay/testInChap/RabbitMQ/CustomRabbit/MQConnect.RabbitMQ/MQConnect.RabbitMQ/obj/Debug/netcoreapp3.1/MQConnect.RabbitMQ.dll
+/Users/akshayhiranwal/Akshay/testInChap/RabbitMQ/CustomRabbit/MQConnect.RabbitMQ/MQConnect.RabbitMQ/obj/Debug/netcoreapp3.1/MQConnect.RabbitMQ.pdb
+/Users/akshayhiranwal/Akshay/testInChap/RabbitMQ/CustomRabbit/MQConnect.RabbitMQ/MQConnect.RabbitMQ/obj/Debug/netcoreapp3.1/MQConnect.RabbitMQ.genruntimeconfig.cache
